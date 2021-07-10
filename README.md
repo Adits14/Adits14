@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adits14
-- 👀 I’m interested in web development, AI, and Machine learning 
+- 👀 I’m interested in web development, AI, and Machine learning.
 - 🌱 I’m currently learning web development. 
 - 💞️ I’m looking to collaborate on open source projects 
 - 📫 How to reach me ... aditisingh1098@gmail.com 
