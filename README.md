@@ -1,10 +1,10 @@
 ### Hi there, I'm Aditi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-## I'm a Pre-final Student!!!
+## I'm a Pre-final Student and love to explore new technologies!!!
 
 - <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="35" height="35"/>  I watch KDrama and listen to music 🎶
-- <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>  I’m currently spending my time on learning advance german language.
--  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">
-- <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="35" height="35"/>  I love to paint🎨, act and play Volleyball😊 
+- <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>  I’m currently spending my time on learning advance german language.🇩🇪
+-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> I'm a NCC Cadet in 1 Raj Girls Bn Jaipur, Banasthali Vidyapith. 🎖
+- <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="35" height="35"/>  I love to paint🎨, act and play Volleyball 🏐
 - <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="35" height="35"/>  I have started making websites using html,css.
 ### Connect with me:
 
