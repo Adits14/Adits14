@@ -8,7 +8,7 @@
 - <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="35" height="35"/>  I have started making websites using html,css.
 ### Connect with me:
 
-[<img align="left" alt="aditstwt | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ad3stwt | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="aditi-singh-4236811a9 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="serein_signora | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="aditisingh1098@gmail.com | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
@@ -42,7 +42,7 @@
 ---
 
 
-[twitter]: https://twitter.com/aditstwt
+[twitter]: https://twitter.com/ad3stwt 
 [instagram]: https://instagram.com/serein_signora
 [linkedin]: https://linkedin.com/in/aditi-singh-4236811a9
 [gmail]: mailto:aditisingh1098@gmail.com
